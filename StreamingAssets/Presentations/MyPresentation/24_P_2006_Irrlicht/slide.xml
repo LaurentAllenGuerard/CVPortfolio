@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Slide id="5c4c953a">
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="3291cb78-03c1-43fc-b6bb-cf9c1b7bcb49">
   <Title>2006 Irrlicht</Title>
-  <BackgroundColor>#0f1a0f</BackgroundColor>
-  <GradientTop>#1a2a1a</GradientTop>
-  <GradientBottom>#0a140a</GradientBottom>
-  <Width>90</Width>
-  <Height>90</Height>
-  <Scale>1.0</Scale>
+  <BackgroundColor>#0F1A0F</BackgroundColor>
+  <GradientTop>#1A2A1A</GradientTop>
+  <GradientBottom>#0A140A</GradientBottom>
   <Elements>
     <Element type="text" id="cf547bf9">
       <Content>2006</Content>
@@ -14,10 +11,10 @@
       <PosX>0.5</PosX>
       <PosY>0.82</PosY>
       <Width>0.35</Width>
-      <Height>0.12</Height>
+      <Height>0.120000005</Height>
       <FontSize>72</FontSize>
-      <TextColor>#a6e22e</TextColor>
-      <BackgroundColor>#2a4a2a90</BackgroundColor>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A90</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -29,8 +26,8 @@
       <Width>0.65</Width>
       <Height>0.09</Height>
       <FontSize>42</FontSize>
-      <TextColor>#a6e22e</TextColor>
-      <BackgroundColor>#2a4a2a60</BackgroundColor>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A60</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
@@ -41,43 +38,34 @@
       <PosY>0.64</PosY>
       <Width>0.65</Width>
       <Height>0.08</Height>
-      <FontSize>32</FontSize>
-      <TextColor>#66d9ef</TextColor>
-      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <FontSize>40</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A70</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
-    <Element type="bulletlist" id="ce799c3a">
-      <BulletPoints>
-        <Point>Graphics &amp; input API Irrlicht</Point>
-        <Point>Space flight simulation</Point>
-        <Point>Orbit simulation research</Point>
-        <Point>Space MMO game concept</Point>
-      </BulletPoints>
-      <Content />
-      <PosX>0.28</PosX>
-      <PosY>0.25</PosY>
-      <Width>0.48</Width>
-      <Height>0.55</Height>
-      <FontSize>28</FontSize>
-      <TextColor>#ffffff</TextColor>
-      <BackgroundColor>#2a3a4a70</BackgroundColor>
-      <Alignment>left</Alignment>
-      <FontStyle>normal</FontStyle>
-    </Element>
-    <Element type="image" id="3847c7cf">
-      <Image>screenshot.jpg</Image>
-      <Content />
+    <Element type="text" id="ce799c3a">
+      <Content>• Graphics &amp; input API Irrlicht
+• Space flight simulation
+• Orbit simulation research
+• Space MMO game concept
+</Content>
       <BulletPoints />
-      <PosX>0.72</PosX>
-      <PosY>0.25</PosY>
-      <Width>0.48</Width>
+      <PosX>0.5</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.92</Width>
       <Height>0.55</Height>
-      <FontSize>0</FontSize>
+      <FontSize>34</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#00000000</BackgroundColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
   </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
 </Slide>

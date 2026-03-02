@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Presentation>
+<?xml version="1.0"?>
+<Presentation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Title>Laurent Allen-Guerard CV and Portfolio</Title>
   <CircleRadius>200</CircleRadius>
   <SlideSpacing>13</SlideSpacing>
@@ -34,6 +34,10 @@
         <Folder>27_P_2006-2007_Mobile</Folder>
         <Folder>28_P_2008-2010_Wii</Folder>
         <Folder>29_P_2011_Medical</Folder>
+        <Folder>32_P_2014-2017_Brain2Midi_Matrox</Folder>
+        <Folder>33_P_2017-2019_Smartpixel</Folder>
+        <Folder>34_P_2020-2022_Realtime_VR</Folder>
+        <Folder>35_P_2023-now_Surveyor_LIDAR</Folder>
         <Folder>31_Pro_Games</Folder>
       </Folders>
     </Group>

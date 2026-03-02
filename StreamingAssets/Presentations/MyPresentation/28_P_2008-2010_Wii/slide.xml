@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Slide id="8f62cd6f">
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="9f6792b3-e7c6-4a61-a559-c759c3c5fcaf">
   <Title>2008-2010 Wii Games</Title>
-  <BackgroundColor>#0f1a0f</BackgroundColor>
-  <GradientTop>#1a2a1a</GradientTop>
-  <GradientBottom>#0a140a</GradientBottom>
-  <Width>90</Width>
-  <Height>90</Height>
-  <Scale>1.0</Scale>
+  <BackgroundColor>#0F1A0F</BackgroundColor>
+  <GradientTop>#1A2A1A</GradientTop>
+  <GradientBottom>#0A140A</GradientBottom>
   <Elements>
     <Element type="text" id="8300d5f2">
       <Content>2008 - 2010</Content>
@@ -14,10 +11,10 @@
       <PosX>0.5</PosX>
       <PosY>0.82</PosY>
       <Width>0.52</Width>
-      <Height>0.12</Height>
+      <Height>0.120000005</Height>
       <FontSize>72</FontSize>
-      <TextColor>#a6e22e</TextColor>
-      <BackgroundColor>#2a4a2a90</BackgroundColor>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A90</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -29,8 +26,8 @@
       <Width>0.65</Width>
       <Height>0.09</Height>
       <FontSize>42</FontSize>
-      <TextColor>#a6e22e</TextColor>
-      <BackgroundColor>#2a4a2a60</BackgroundColor>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A60</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
@@ -41,43 +38,34 @@
       <PosY>0.64</PosY>
       <Width>0.65</Width>
       <Height>0.08</Height>
-      <FontSize>32</FontSize>
-      <TextColor>#66d9ef</TextColor>
-      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <FontSize>40</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A70</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
-    <Element type="bulletlist" id="6a55966b">
-      <BulletPoints>
-        <Point>Kid Paddle (Wii)</Point>
-        <Point>Sherlock Holmes (Wii)</Point>
-        <Point>Amazing Race (Wii)</Point>
-        <Point>Planet Fish (WiiWare)</Point>
-      </BulletPoints>
-      <Content />
-      <PosX>0.28</PosX>
-      <PosY>0.25</PosY>
-      <Width>0.48</Width>
-      <Height>0.55</Height>
-      <FontSize>28</FontSize>
-      <TextColor>#ffffff</TextColor>
-      <BackgroundColor>#2a3a4a70</BackgroundColor>
-      <Alignment>left</Alignment>
-      <FontStyle>normal</FontStyle>
-    </Element>
-    <Element type="image" id="7a20afc5">
-      <Image>screenshot.jpg</Image>
-      <Content />
+    <Element type="text" id="6a55966b">
+      <Content>• Kid Paddle (Wii)
+• Sherlock Holmes (Wii)
+• Amazing Race (Wii)
+• Planet Fish (WiiWare)
+</Content>
       <BulletPoints />
-      <PosX>0.72</PosX>
-      <PosY>0.25</PosY>
-      <Width>0.48</Width>
+      <PosX>0.5</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.92</Width>
       <Height>0.55</Height>
-      <FontSize>0</FontSize>
+      <FontSize>34</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#00000000</BackgroundColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
   </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
 </Slide>
