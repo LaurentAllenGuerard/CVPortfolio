@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="a323dbbd-207a-4cb0-8f43-bec977b22fca">
+  <Title>Professional Experience</Title>
+  <BackgroundColor>#12192E</BackgroundColor>
+  <GradientTop>#1C2A40</GradientTop>
+  <GradientBottom>#0C1220</GradientBottom>
+  <Elements>
+    <Element type="text" id="e2a00001">
+      <Content>Professional Experience</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.8991667</PosY>
+      <Width>0.6</Width>
+      <Height>0.06</Height>
+      <FontSize>48</FontSize>
+      <TextColor>#2E8B57</TextColor>
+      <BackgroundColor>#4A223290</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00010">
+      <Content>2023 - Now</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.84</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00011">
+      <Content>Groupe Trifide inc.</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.795</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00012">
+      <Content>• 3D land surveyor application with Unity
+• 3D laser scans, 360 photos, mesh reconstruction
+• Processing up to billions of points
+</Content>
+      <BulletPoints />
+      <PosX>0.32583335</PosX>
+      <PosY>0.745833337</PosY>
+      <Width>0.42</Width>
+      <Height>0.11</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00020">
+      <Content>2020 - 2022</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.6716667</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00021">
+      <Content>Chisei Technologies</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.6375</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00022">
+      <Content>• VR / Desktop 3D development on Mirage in Unity
+• Realistic shaders, complex animations
+• Modern UI for VR and desktop
+</Content>
+      <BulletPoints />
+      <PosX>0.315</PosX>
+      <PosY>0.586666644</PosY>
+      <Width>0.42</Width>
+      <Height>0.11</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00030">
+      <Content>2017 - 2019</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.511666656</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00031">
+      <Content>Smartpixel</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.4675</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00032">
+      <Content>• Generalist and 3D software developer, R&amp;D
+• C#, Javascript, Shaders, .Net, WebGL, Unity
+</Content>
+      <BulletPoints />
+      <PosX>0.326666683</PosX>
+      <PosY>0.415833324</PosY>
+      <Width>0.42</Width>
+      <Height>0.09</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00040">
+      <Content>2013 - 2015</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.345833331</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00041">
+      <Content>Matrox Imaging, Dorval</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.30583334</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00042">
+      <Content>• Intern software developer, QA &amp; optimizations
+• MIL library, C++, Intel AVX2
+</Content>
+      <BulletPoints />
+      <PosX>0.36166665</PosX>
+      <PosY>0.254166663</PosY>
+      <Width>0.42</Width>
+      <Height>0.09</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00050">
+      <Content>2011</Content>
+      <BulletPoints />
+      <PosX>0.657499969</PosX>
+      <PosY>0.84</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00051">
+      <Content>LIO - Medical Imaging Lab</Content>
+      <BulletPoints />
+      <PosX>0.6616667</PosX>
+      <PosY>0.795</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00052">
+      <Content>• Intern as GPU R&amp;D, NSERC scholarship
+• Medical imagery research
+</Content>
+      <BulletPoints />
+      <PosX>0.72</PosX>
+      <PosY>0.754166663</PosY>
+      <Width>0.42</Width>
+      <Height>0.11</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00060">
+      <Content>2008 - 2010</Content>
+      <BulletPoints />
+      <PosX>0.683333337</PosX>
+      <PosY>0.6725</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00061">
+      <Content>Mistic &amp; Ludia, Montreal</Content>
+      <BulletPoints />
+      <PosX>0.6716667</PosX>
+      <PosY>0.636666656</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00062">
+      <Content>• PC and Wii Game and Engine Programmer
+• Revolution SDK (Nintendo Wii), multiplatform
+</Content>
+      <BulletPoints />
+      <PosX>0.72</PosX>
+      <PosY>0.584166646</PosY>
+      <Width>0.42</Width>
+      <Height>0.11</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00070">
+      <Content>2006 - 2007</Content>
+      <BulletPoints />
+      <PosX>0.691666663</PosX>
+      <PosY>0.505</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00071">
+      <Content>ODD1, Montreal</Content>
+      <BulletPoints />
+      <PosX>0.6925</PosX>
+      <PosY>0.455833346</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00072">
+      <Content>• PC and Mobile Game Programmer
+• C++ Win32, Ogre3D, CG Shaders, Java J2ME
+</Content>
+      <BulletPoints />
+      <PosX>0.73</PosX>
+      <PosY>0.4175</PosY>
+      <Width>0.42</Width>
+      <Height>0.09</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00080">
+      <Content>2005</Content>
+      <BulletPoints />
+      <PosX>0.6925</PosX>
+      <PosY>0.335833341</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00081">
+      <Content>Gameloft, Montreal</Content>
+      <BulletPoints />
+      <PosX>0.6958333</PosX>
+      <PosY>0.298333317</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>24</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00082">
+      <Content>• Mobile Game Programmer, Java J2ME
+</Content>
+      <BulletPoints />
+      <PosX>0.7416667</PosX>
+      <PosY>0.250833333</PosY>
+      <Width>0.42</Width>
+      <Height>0.09</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>120</Width>
+  <Height>120</Height>
+  <Scale>1</Scale>
+</Slide>

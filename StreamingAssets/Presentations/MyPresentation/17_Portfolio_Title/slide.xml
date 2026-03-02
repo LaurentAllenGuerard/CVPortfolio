@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="dc5868a0-c901-40a5-a00f-dba82aef1994">
+  <Title>Portfolio</Title>
+  <BackgroundColor>#0F1E0F</BackgroundColor>
+  <GradientTop>#1A301A</GradientTop>
+  <GradientBottom>#0A180A</GradientBottom>
+  <Elements>
+    <Element type="text" id="4c20e29b">
+      <Content>Portfolio</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.62</PosY>
+      <Width>0.55</Width>
+      <Height>0.12</Height>
+      <FontSize>74</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="0f96335d">
+      <Content>Laurent Allen-Guerard</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.48</PosY>
+      <Width>0.6</Width>
+      <Height>0.08</Height>
+      <FontSize>36</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A80</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="318c20a6">
+      <Content>Programming Projects
+
+1998-2026</Content>
+      <BulletPoints />
+      <PosX>0.473846167</PosX>
+      <PosY>0.36</PosY>
+      <Width>0.6</Width>
+      <Height>0.07</Height>
+      <FontSize>40</FontSize>
+      <TextColor>#CCCCCC</TextColor>
+      <BackgroundColor>#3A3A4A60</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>65</Width>
+  <Height>65</Height>
+  <Scale>1.2</Scale>
+</Slide>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="79936644-31e0-4b86-a080-8cac1da19282">
+  <Title>2000-2001 College</Title>
+  <BackgroundColor>#0F1A0F</BackgroundColor>
+  <GradientTop>#1A2A1A</GradientTop>
+  <GradientBottom>#0A140A</GradientBottom>
+  <Elements>
+    <Element type="text" id="9216ea2c">
+      <Content>2000 - 2001</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.82</PosY>
+      <Width>0.52</Width>
+      <Height>0.120000005</Height>
+      <FontSize>72</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="72fd68a6">
+      <Content>College Collaborations</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.72</PosY>
+      <Width>0.65</Width>
+      <Height>0.09</Height>
+      <FontSize>42</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A60</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="b94caaac">
+      <Content>C (DOS), Java J2SE, Visual Basic</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.64</PosY>
+      <Width>0.65</Width>
+      <Height>0.08</Height>
+      <FontSize>40</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="21942017">
+      <Content>• 3D geometry editor
+• Keyframe animations
+• 3D Minesweeper
+• Real time strategy in Java
+• With G. Lassonde (3D engine)
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.92</Width>
+      <Height>0.55</Height>
+      <FontSize>34</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
+</Slide>

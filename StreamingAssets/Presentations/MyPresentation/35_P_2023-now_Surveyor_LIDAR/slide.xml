@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="a1b2c3d4-2023-4004-8004-000000000004">
+  <Title>2023-now Land Surveyor LIDAR</Title>
+  <BackgroundColor>#0F1A0F</BackgroundColor>
+  <GradientTop>#1A2A1A</GradientTop>
+  <GradientBottom>#0A140A</GradientBottom>
+  <Elements>
+    <Element type="text" id="c31d0304">
+      <Content>2023 - now</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.82</PosY>
+      <Width>0.52</Width>
+      <Height>0.120000005</Height>
+      <FontSize>72</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="5b59d304">
+      <Content>Land Surveyor</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.72</PosY>
+      <Width>0.65</Width>
+      <Height>0.09</Height>
+      <FontSize>42</FontSize>
+      <TextColor>#A6E22E</TextColor>
+      <BackgroundColor>#2A4A2A60</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="4bfdec34">
+      <Content>LIDAR, Photogrammetry, Unity</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.64</PosY>
+      <Width>0.65</Width>
+      <Height>0.08</Height>
+      <FontSize>40</FontSize>
+      <TextColor>#66D9EF</TextColor>
+      <BackgroundColor>#1A3A5A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="760b5344">
+      <Content>• LIDAR 3D scan processing
+• 3D reconstruction from drone photos
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.92</Width>
+      <Height>0.55</Height>
+      <FontSize>34</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>GeoMtl2025_64bitsMonde_Voitures.png</File>
+    <File>GeoMtl_photoPleinEcran.png</File>
+    <File>Nicolet_Centre_4k.png</File>
+  </AttachedImages>
+</Slide>
