@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slide id="787eae8a">
+  <Title>Laurent Allen-Guerard</Title>
+  <BackgroundColor>#0f0f1e</BackgroundColor>
+  <GradientTop>#1a1a30</GradientTop>
+  <GradientBottom>#0a0a18</GradientBottom>
+  <Width>65</Width>
+  <Height>65</Height>
+  <Scale>1.2</Scale>
+  <Elements>
+    <Element type="text" id="740ede2d">
+      <Content>Laurent Allen-Guerard</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.62</PosY>
+      <Width>0.65</Width>
+      <Height>0.12</Height>
+      <FontSize>62</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="97a99818">
+      <Content>CV 2026</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.47</PosY>
+      <Width>0.45</Width>
+      <Height>0.1</Height>
+      <FontSize>44</FontSize>
+      <TextColor>#a6e22e</TextColor>
+      <BackgroundColor>#2a4a2a80</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="1a81a20c">
+      <Content>Software Developer - 27 Years Experience</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.35</PosY>
+      <Width>0.62</Width>
+      <Height>0.08</Height>
+      <FontSize>28</FontSize>
+      <TextColor>#cccccc</TextColor>
+      <BackgroundColor>#3a3a4a60</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+</Slide>

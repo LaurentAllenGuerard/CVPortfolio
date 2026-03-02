@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slide id="6378517b">
+  <Title>Personal Achievements</Title>
+  <BackgroundColor>#1a1a2e</BackgroundColor>
+  <GradientTop>#252538</GradientTop>
+  <GradientBottom>#151525</GradientBottom>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1.0</Scale>
+  <Elements>
+    <Element type="text" id="699ae8fb">
+      <Content>Personal Achievements</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.8</PosY>
+      <Width>0.58</Width>
+      <Height>0.1</Height>
+      <FontSize>42</FontSize>
+      <TextColor>#f92672</TextColor>
+      <BackgroundColor>#4a223290</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="96aed92a">
+      <Content>Programming</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.68</PosY>
+      <Width>0.5</Width>
+      <Height>0.07</Height>
+      <FontSize>28</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="397529fd">
+      <BulletPoints>
+        <Point>Vision EEG company, Brain2Midi app</Point>
+        <Point>3D engine in DirectX9</Point>
+        <Point>Simple flight simulator in OpenGL</Point>
+        <Point>3D object editor in DOS C</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.5</PosX>
+      <PosY>0.52</PosY>
+      <Width>0.8</Width>
+      <Height>0.2</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="9189aec0">
+      <Content>Music &amp; Videos</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.5</Width>
+      <Height>0.07</Height>
+      <FontSize>28</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="e00e6699">
+      <BulletPoints>
+        <Point>Electronic music production (Ableton 11)</Point>
+        <Point>Live mixes with controllers, DJ with CDJ</Point>
+        <Point>Modular sound synthesis</Point>
+        <Point>YouTube channel: Hors Reseau Quebec</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.5</PosX>
+      <PosY>0.26</PosY>
+      <Width>0.8</Width>
+      <Height>0.16</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+</Slide>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slide id="c3a3b3c3">
+  <Title>Skills and Projects</Title>
+  <BackgroundColor>#1a1a2e</BackgroundColor>
+  <GradientTop>#252538</GradientTop>
+  <GradientBottom>#151525</GradientBottom>
+  <Width>120</Width>
+  <Height>120</Height>
+  <Scale>1.0</Scale>
+  <Elements>
+    <Element type="text" id="e3a00001">
+      <Content>Skills &amp; Projects</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.92</PosY>
+      <Width>0.55</Width>
+      <Height>0.06</Height>
+      <FontSize>48</FontSize>
+      <TextColor>#f92672</TextColor>
+      <BackgroundColor>#4a223290</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e3a00010">
+      <Content>Languages</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.84</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="e3a00011">
+      <BulletPoints>
+        <Point>C#, C++ (MSVC, Borland Turbo), Python</Point>
+        <Point>Java SE &amp; ME, Javascript, PHP/HTML</Point>
+        <Point>GLSL, CG, HLSL shader languages</Point>
+        <Point>AVX2, SSE4 SIMD, OpenCL</Point>
+        <Point>SQL, Oracle, JCL &amp; COBOL</Point>
+        <Point>GWBasic, QBasic, Visual Basic</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.28</PosX>
+      <PosY>0.68</PosY>
+      <Width>0.42</Width>
+      <Height>0.26</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e3a00020">
+      <Content>APIs &amp; Frameworks</Content>
+      <BulletPoints />
+      <PosX>0.28</PosX>
+      <PosY>0.5</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="e3a00021">
+      <BulletPoints>
+        <Point>Unity, OpenGL, DirectX, Android</Point>
+        <Point>Ogre3D, Irrlicht, Newton, ODE, OIS, CEGUI</Point>
+        <Point>Revolution SDK (Wii), NLTK, OpenNurbs</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.28</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.42</Width>
+      <Height>0.18</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e3a00030">
+      <Content>Personal Projects</Content>
+      <BulletPoints />
+      <PosX>0.72</PosX>
+      <PosY>0.84</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="e3a00031">
+      <BulletPoints>
+        <Point>Vision EEG company, Brain2Midi app</Point>
+        <Point>3D engine in DirectX9</Point>
+        <Point>Simple flight simulator in OpenGL</Point>
+        <Point>3D object editor in DOS C</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.72</PosX>
+      <PosY>0.68</PosY>
+      <Width>0.42</Width>
+      <Height>0.26</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e3a00040">
+      <Content>Music &amp; Videos</Content>
+      <BulletPoints />
+      <PosX>0.72</PosX>
+      <PosY>0.5</PosY>
+      <Width>0.42</Width>
+      <Height>0.04</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="e3a00041">
+      <BulletPoints>
+        <Point>Electronic music production (Ableton 11)</Point>
+        <Point>Live mixes with controllers, DJ with CDJ</Point>
+        <Point>Modular sound synthesis</Point>
+        <Point>YouTube channel: Hors Reseau Quebec</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.72</PosX>
+      <PosY>0.38</PosY>
+      <Width>0.42</Width>
+      <Height>0.18</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+</Slide>

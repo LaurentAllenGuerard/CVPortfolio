@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slide id="53bf3cee">
+  <Title>Skills</Title>
+  <BackgroundColor>#1a1a2e</BackgroundColor>
+  <GradientTop>#252538</GradientTop>
+  <GradientBottom>#151525</GradientBottom>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1.0</Scale>
+  <Elements>
+    <Element type="text" id="2e84b420">
+      <Content>Skills</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.8</PosY>
+      <Width>0.42</Width>
+      <Height>0.1</Height>
+      <FontSize>48</FontSize>
+      <TextColor>#f92672</TextColor>
+      <BackgroundColor>#4a223290</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="9b901f79">
+      <Content>Languages</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.68</PosY>
+      <Width>0.52</Width>
+      <Height>0.07</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="162d6da4">
+      <BulletPoints>
+        <Point>C#, C++ (MSVC, Borland Turbo), Python</Point>
+        <Point>Java SE &amp; ME, Javascript, PHP/HTML</Point>
+        <Point>GLSL, CG, HLSL shader languages</Point>
+        <Point>AVX2, SSE4 SIMD, OpenCL</Point>
+        <Point>SQL, Oracle, JCL &amp; COBOL</Point>
+        <Point>GWBasic, QBasic, Visual Basic</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.5</PosX>
+      <PosY>0.5</PosY>
+      <Width>0.8</Width>
+      <Height>0.22</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="4840afbb">
+      <Content>APIs &amp; Frameworks</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.35</PosY>
+      <Width>0.52</Width>
+      <Height>0.07</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a70</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="bulletlist" id="3aa0d965">
+      <BulletPoints>
+        <Point>Unity, OpenGL, DirectX, Android</Point>
+        <Point>Ogre3D, Irrlicht, Newton, ODE, OIS, CEGUI</Point>
+        <Point>Revolution SDK (Wii), NLTK, OpenNurbs</Point>
+      </BulletPoints>
+      <Content />
+      <PosX>0.5</PosX>
+      <PosY>0.24</PosY>
+      <Width>0.8</Width>
+      <Height>0.14</Height>
+      <FontSize>32</FontSize>
+      <TextColor>#ffffff</TextColor>
+      <BackgroundColor>#2a3a4a70</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+</Slide>

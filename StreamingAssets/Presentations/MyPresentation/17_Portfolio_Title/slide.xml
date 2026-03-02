@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slide id="726d6cab">
+  <Title>Portfolio</Title>
+  <BackgroundColor>#0f1e0f</BackgroundColor>
+  <GradientTop>#1a301a</GradientTop>
+  <GradientBottom>#0a180a</GradientBottom>
+  <Width>65</Width>
+  <Height>65</Height>
+  <Scale>1.2</Scale>
+  <Elements>
+    <Element type="text" id="4c20e29b">
+      <Content>Portfolio</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.62</PosY>
+      <Width>0.55</Width>
+      <Height>0.12</Height>
+      <FontSize>62</FontSize>
+      <TextColor>#a6e22e</TextColor>
+      <BackgroundColor>#2a4a2a90</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="0f96335d">
+      <Content>Laurent Allen-Guerard</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.48</PosY>
+      <Width>0.6</Width>
+      <Height>0.08</Height>
+      <FontSize>36</FontSize>
+      <TextColor>#66d9ef</TextColor>
+      <BackgroundColor>#1a3a5a80</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="318c20a6">
+      <Content>Programming Projects 1998-2014</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.36</PosY>
+      <Width>0.6</Width>
+      <Height>0.07</Height>
+      <FontSize>28</FontSize>
+      <TextColor>#cccccc</TextColor>
+      <BackgroundColor>#3a3a4a60</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+</Slide>
