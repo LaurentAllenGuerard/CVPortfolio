@@ -1,9 +1,9 @@
 const cacheName = "VisionEEG-PresentationTool2026-0.1.0";
 const contentToCache = [
     "Build/CVPortfolio.loader.js",
-    "Build/CVPortfolio.framework.js",
-    "Build/CVPortfolio.data",
-    "Build/CVPortfolio.wasm",
+    "Build/CVPortfolio.framework.js.gz",
+    "Build/CVPortfolio.data.gz",
+    "Build/CVPortfolio.wasm.gz",
     "TemplateData/style.css"
 
 ];
