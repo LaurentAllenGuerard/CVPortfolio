@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ec43b3bb-792d-4ab8-82ef-975f481d3ff1">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="9bd1aede-5eba-4da3-b7cf-72f3114124e5">
   <Title>Skills and Projects</Title>
   <BackgroundColor>#1A1A2E</BackgroundColor>
   <GradientTop>#252538</GradientTop>
@@ -143,4 +143,5 @@
   <Width>120</Width>
   <Height>120</Height>
   <Scale>1</Scale>
+  <AttachedImages />
 </Slide>

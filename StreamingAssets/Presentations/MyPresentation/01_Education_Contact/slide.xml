@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="a5e17725-810f-4b6e-87c9-643eae648ac4">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="60525474-c5f0-41bc-bd83-50710211f553">
   <Title>Education and Contact</Title>
   <BackgroundColor>#0F0F1E</BackgroundColor>
   <GradientTop>#1A1A30</GradientTop>
@@ -106,4 +106,5 @@
   <Width>120</Width>
   <Height>120</Height>
   <Scale>1</Scale>
+  <AttachedImages />
 </Slide>

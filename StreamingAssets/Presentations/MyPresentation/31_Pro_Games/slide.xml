@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="45671082-c36c-4f04-9039-cdcd7cba1fe9">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="754d515d-9138-4d5e-a0c1-8ddc664e9581">
   <Title>Professional Games</Title>
   <BackgroundColor>#0F1A0F</BackgroundColor>
   <GradientTop>#1A2A1A</GradientTop>
@@ -77,4 +77,5 @@
   <Width>90</Width>
   <Height>90</Height>
   <Scale>1</Scale>
+  <AttachedImages />
 </Slide>
