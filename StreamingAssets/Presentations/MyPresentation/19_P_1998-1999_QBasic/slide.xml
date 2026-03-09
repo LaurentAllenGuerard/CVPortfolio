@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="f89af541-93ec-47bf-b00b-18a7aacb61b6">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="c2d86970-e237-4309-b9ff-288145a25c65">
   <Title>1998-1999 QBasic</Title>
-  <BackgroundColor>#0F1A0F</BackgroundColor>
-  <GradientTop>#1A2A1A</GradientTop>
-  <GradientBottom>#0A140A</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="c31d025b">
-      <Content>1998 - 1999</Content>
+      <Content>1998</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.82</PosY>
-      <Width>0.52</Width>
-      <Height>0.120000005</Height>
-      <FontSize>72</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.153731287</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -22,44 +22,44 @@
       <Content>Initiation to Programming</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.72</PosY>
-      <Width>0.65</Width>
-      <Height>0.09</Height>
-      <FontSize>42</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A60</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.5737756</PosY>
+      <Width>0.416666657</Width>
+      <Height>0.0509862565</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="4bfdec09">
       <Content>QBasic</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.64</PosY>
-      <Width>0.65</Width>
-      <Height>0.08</Height>
-      <FontSize>40</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.522789359</PosY>
+      <Width>0.142444447</Width>
+      <Height>0.0509862565</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="760b5307">
-      <Content>• Mastering graphic modes
-• Handling user input
-• Simple artificial intelligence
-• 256 palette colors
-• With G. Blanchette Doutre
+      <Content> Mastering graphic modes
+ Handling user input
+ Simple artificial intelligence
+ 256 palette colors
+ With G. Blanchette Doutre
 </Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.92</Width>
-      <Height>0.55</Height>
-      <FontSize>34</FontSize>
+      <PosY>0.372148126</PosY>
+      <Width>0.457666665</Width>
+      <Height>0.250296175</Height>
+      <FontSize>30</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
   </Elements>

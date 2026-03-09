@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="606de6be-3434-43f9-bcbe-36fbd6c52d07">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="6ca851e4-1001-479a-8ebc-8e92be62cc18">
   <Title>2007 ODD1 Ogre3D</Title>
-  <BackgroundColor>#0F1A0F</BackgroundColor>
-  <GradientTop>#1A2A1A</GradientTop>
-  <GradientBottom>#0A140A</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="836bae64">
       <Content>2007</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.82</PosY>
-      <Width>0.35</Width>
-      <Height>0.120000005</Height>
-      <FontSize>72</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.132666662</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -22,43 +22,43 @@
       <Content>ODD1 - Ogre3D</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.72</PosY>
-      <Width>0.65</Width>
-      <Height>0.09</Height>
-      <FontSize>42</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A60</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.5571667</PosY>
+      <Width>0.278888881</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="bb2fe508">
       <Content>Ogre3D, ODE, OIS, CEGUI</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.64</PosY>
-      <Width>0.65</Width>
-      <Height>0.08</Height>
-      <FontSize>40</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.483166665</PosY>
+      <Width>0.451444447</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e3b4fda4">
-      <Content>• 3D Side scroller editor
-• Real time material edition
-• Animation Blending (Maya)
-• State machine implementation
+      <Content> 3D Side scroller editor
+ Real time material edition
+ Animation Blending (Maya)
+ State machine implementation
 </Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.92</Width>
-      <Height>0.55</Height>
-      <FontSize>34</FontSize>
+      <PosY>0.34466666</PosY>
+      <Width>0.507</Width>
+      <Height>0.173</Height>
+      <FontSize>30</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
   </Elements>

@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="e8cb81a2-91c3-4fbd-acbc-f72c025d4f38">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="88e50ba9-42be-4517-a631-7591474bbbca">
   <Title>2014-2017 Brain2Midi &amp; Matrox</Title>
-  <BackgroundColor>#0F1A0F</BackgroundColor>
-  <GradientTop>#1A2A1A</GradientTop>
-  <GradientBottom>#0A140A</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="c31d0301">
-      <Content>2014 - 2017</Content>
+      <Content>2014</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.82</PosY>
-      <Width>0.52</Width>
-      <Height>0.120000005</Height>
-      <FontSize>72</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.118696257</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -22,47 +22,47 @@
       <Content>Brain2Midi &amp; Matrox</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.72</PosY>
-      <Width>0.65</Width>
-      <Height>0.09</Height>
-      <FontSize>42</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A60</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.614620447</PosY>
+      <Width>0.34133333</Width>
+      <Height>0.0393666</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="4bfdec31">
       <Content>EEG, MIDI, C++, AVX-512</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.64</PosY>
-      <Width>0.65</Width>
-      <Height>0.08</Height>
-      <FontSize>40</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.575253844</PosY>
+      <Width>0.432</Width>
+      <Height>0.0393666</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="760b5341">
       <Content>Brain2Midi
-• EEG brainwave signal processing
-• Conversion of neural patterns to MIDI
-• Live musical performance from brain signals
+ EEG brainwave signal processing
+ Conversion of neural patterns to MIDI
+ Live musical performance from brain signals
 
 Matrox
-• Quality Assurance engineering
-• AVX-512 SIMD optimizations
+ Quality Assurance engineering
+ AVX-512 SIMD optimizations
 </Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.92</Width>
-      <Height>0.55</Height>
-      <FontSize>34</FontSize>
+      <PosY>0.4012853</PosY>
+      <Width>0.7204444</Width>
+      <Height>0.308570534</Height>
+      <FontSize>30</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
   </Elements>

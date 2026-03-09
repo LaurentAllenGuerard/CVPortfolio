@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="7164bfd8-fdd0-4bd0-a354-a5ff12935107">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="8006d4f6-47c8-44d3-86f4-40779725663b">
   <Title>1999-2000 Personal Projects</Title>
-  <BackgroundColor>#0F1A0F</BackgroundColor>
-  <GradientTop>#1A2A1A</GradientTop>
-  <GradientBottom>#0A140A</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="8b6f1810">
-      <Content>1999 - 2000</Content>
+      <Content>1999</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.82</PosY>
-      <Width>0.52</Width>
-      <Height>0.120000005</Height>
-      <FontSize>72</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.139949977</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -22,45 +22,45 @@
       <Content>Personal Projects</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.72</PosY>
-      <Width>0.65</Width>
-      <Height>0.09</Height>
-      <FontSize>42</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A60</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.58984226</PosY>
+      <Width>0.30177778</Width>
+      <Height>0.04641557</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="722fca0e">
       <Content>QBasic</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.64</PosY>
-      <Width>0.65</Width>
-      <Height>0.08</Height>
-      <FontSize>40</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosY>0.5434267</PosY>
+      <Width>0.142444447</Width>
+      <Height>0.04641557</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="ea7f6d2c">
-      <Content>• File handling
-• Texture editor
-• Terrain editor
-• Side Scrolling Mario Bros style
-• Animation system for RPG
-• Random terrain generation
+      <Content> File handling
+ Texture editor
+ Terrain editor
+ Side Scrolling Mario Bros style
+ Animation system for RPG
+ Random terrain generation
 </Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.92</Width>
-      <Height>0.55</Height>
-      <FontSize>34</FontSize>
+      <PosY>0.3836094</PosY>
+      <Width>0.5095556</Width>
+      <Height>0.27321893</Height>
+      <FontSize>30</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
   </Elements>

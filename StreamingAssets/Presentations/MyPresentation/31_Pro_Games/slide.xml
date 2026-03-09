@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="754d515d-9138-4d5e-a0c1-8ddc664e9581">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="9f043ba1-11fe-4b30-9b8a-2a2a409fef1e">
   <Title>Professional Games</Title>
-  <BackgroundColor>#0F1A0F</BackgroundColor>
-  <GradientTop>#1A2A1A</GradientTop>
-  <GradientBottom>#0A140A</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="ed03a8a2">
-      <Content>2004 - 2013</Content>
+      <Content>Games</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.82</PosY>
-      <Width>0.52</Width>
-      <Height>0.120000005</Height>
-      <FontSize>72</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.420555532</Width>
+      <Height>0.10212373</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -22,12 +22,12 @@
       <Content>Professional Games</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.72</PosY>
-      <Width>0.65</Width>
-      <Height>0.09</Height>
-      <FontSize>42</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A60</BackgroundColor>
+      <PosY>0.6387309</PosY>
+      <Width>0.239111111</Width>
+      <Height>0.0242907368</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
@@ -35,41 +35,41 @@
       <Content>Console, PC, Mobile, Wii</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.64</PosY>
-      <Width>0.65</Width>
-      <Height>0.08</Height>
-      <FontSize>40</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
+      <PosY>0.614440143</PosY>
+      <Width>0.287222236</Width>
+      <Height>0.0242907368</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="f0f520ef">
-      <Content>• Scaler - Console - A2M
-• Scooby-Doo! Unmasked - Console - A2M
-• VijaySing Pro Golf - Mobile - Gameloft
-• Asphalt Urban GT - Mobile - Gameloft
-• Prince of Persia - Mobile - Gameloft
-• Beach Volley Mania - Fugitive
-• Orbital - PC - Fugitive
-• Rally Mania - Mobile 3D - Fugitive
-• OddBoy - PC &amp; Mobile - ODD1
-• Warband - Mobile - ODD1
-• Freddi Fish / SpyFox - Wii - Mistic
-• Kid Paddle - Wii - Mistic
-• Sherlock Holmes - Wii - Mistic
-• Bachelor Bachelorette - Wii - Ludia
-• Amazing Race - Wii - Ludia
-• Planet Fish - WiiWare - Ludia
+      <Content> Scaler - Console - A2M
+ Scooby-Doo! Unmasked - Console - A2M
+ VijaySing Pro Golf - Mobile - Gameloft
+ Asphalt Urban GT - Mobile - Gameloft
+ Prince of Persia - Mobile - Gameloft
+ Beach Volley Mania - Fugitive
+ Orbital - PC - Fugitive
+ Rally Mania - Mobile 3D - Fugitive
+ OddBoy - PC &amp; Mobile - ODD1
+ Warband - Mobile - ODD1
+ Freddi Fish / SpyFox - Wii - Mistic
+ Kid Paddle - Wii - Mistic
+ Sherlock Holmes - Wii - Mistic
+ Bachelor Bachelorette - Wii - Ludia
+ Amazing Race - Wii - Ludia
+ Planet Fish - WiiWare - Ludia
 </Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.92</Width>
-      <Height>0.55</Height>
-      <FontSize>24</FontSize>
+      <PosY>0.4246474</PosY>
+      <Width>0.459888875</Width>
+      <Height>0.3552948</Height>
+      <FontSize>20</FontSize>
       <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>

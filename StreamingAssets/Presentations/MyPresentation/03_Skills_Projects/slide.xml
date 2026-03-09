@@ -1,141 +1,141 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="9bd1aede-5eba-4da3-b7cf-72f3114124e5">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="db054f68-9b4b-4c85-9937-6e63ccc5f876">
   <Title>Skills and Projects</Title>
-  <BackgroundColor>#1A1A2E</BackgroundColor>
-  <GradientTop>#252538</GradientTop>
-  <GradientBottom>#151525</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="e3a00001">
       <Content>Skills &amp; Projects</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.884166658</PosY>
-      <Width>0.55</Width>
-      <Height>0.06</Height>
-      <FontSize>48</FontSize>
-      <TextColor>#2E8B57</TextColor>
-      <BackgroundColor>#4A223290</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.7299339</Width>
+      <Height>0.08366667</Height>
+      <FontSize>63</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e3a00010">
       <Content>Languages</Content>
       <BulletPoints />
-      <PosX>0.28</PosX>
-      <PosY>0.795</PosY>
-      <Width>0.42</Width>
-      <Height>0.04</Height>
-      <FontSize>30</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosX>0.3125165</PosX>
+      <PosY>0.6389162</PosY>
+      <Width>0.274166673</Width>
+      <Height>0.07833333</Height>
+      <FontSize>42</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e3a00011">
-      <Content>• C#, C++ (MSVC, Borland Turbo), Python
-• Java SE &amp; ME, Javascript, PHP/HTML
-• GLSL, CG, HLSL shader languages
-• AVX2, SSE4 SIMD, OpenCL
-• SQL, Oracle, JCL &amp; COBOL
-• GWBasic, QBasic, Visual Basic
+      <Content> C#, C++ (MSVC, Borland Turbo), Python
+ Java SE &amp; ME, Javascript, PHP/HTML
+ GLSL, CG, HLSL shader languages
+ AVX2, SSE4 SIMD, OpenCL
+ SQL, Oracle, JCL &amp; COBOL
+ GWBasic, QBasic, Visual Basic
 </Content>
       <BulletPoints />
-      <PosX>0.335</PosX>
-      <PosY>0.68</PosY>
-      <Width>0.42</Width>
-      <Height>0.26</Height>
-      <FontSize>26</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <PosX>0.3125165</PosX>
+      <PosY>0.488612562</PosY>
+      <Width>0.354966968</Width>
+      <Height>0.174774885</Height>
+      <FontSize>21.9</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e3a00020">
       <Content>APIs &amp; Frameworks</Content>
       <BulletPoints />
-      <PosX>0.28</PosX>
-      <PosY>0.5</PosY>
-      <Width>0.42</Width>
-      <Height>0.04</Height>
-      <FontSize>30</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosX>0.3125165</PosX>
+      <PosY>0.371578664</PosY>
+      <Width>0.352666676</Width>
+      <Height>0.06571861</Height>
+      <FontSize>30.890255</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e3a00021">
-      <Content>• Unity, OpenGL, DirectX, Android
-• Ogre3D, Irrlicht, Newton, ODE, OIS, CEGUI
-• Revolution SDK (Wii), NLTK, OpenNurbs
+      <Content> Unity, OpenGL, DirectX, Android
+ Ogre3D, Irrlicht, Newton, ODE, OIS, CEGUI
+ Revolution SDK (Wii), NLTK, OpenNurbs
 </Content>
       <BulletPoints />
-      <PosX>0.308333337</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.42</Width>
-      <Height>0.18</Height>
-      <FontSize>26</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <PosX>0.3125165</PosX>
+      <PosY>0.291253239</PosY>
+      <Width>0.354966968</Width>
+      <Height>0.08850649</Height>
+      <FontSize>21.9</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e3a00030">
       <Content>Personal Projects</Content>
       <BulletPoints />
-      <PosX>0.72</PosX>
-      <PosY>0.795</PosY>
-      <Width>0.42</Width>
-      <Height>0.04</Height>
-      <FontSize>30</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosX>0.6874835</PosX>
+      <PosY>0.637891352</PosY>
+      <Width>0.34875</Width>
+      <Height>0.056416668</Height>
+      <FontSize>33.7018</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e3a00031">
-      <Content>• Vision EEG company, Brain2Midi app
-• 3D engine in DirectX9
-• Simple flight simulator in OpenGL
-• 3D object editor in DOS C
+      <Content> Vision EEG company, Brain2Midi app
+ 3D engine in DirectX9
+ Simple flight simulator in OpenGL
+ 3D object editor in DOS C
 </Content>
       <BulletPoints />
-      <PosX>0.754166663</PosX>
-      <PosY>0.68</PosY>
-      <Width>0.42</Width>
-      <Height>0.26</Height>
-      <FontSize>26</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <PosX>0.6874835</PosX>
+      <PosY>0.5157083</PosY>
+      <Width>0.341916651</Width>
+      <Height>0.09608333</Height>
+      <FontSize>21.9</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e3a00040">
       <Content>Music &amp; Videos</Content>
       <BulletPoints />
-      <PosX>0.72</PosX>
-      <PosY>0.5</PosY>
-      <Width>0.42</Width>
-      <Height>0.04</Height>
-      <FontSize>30</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A70</BackgroundColor>
-      <Alignment>center</Alignment>
+      <PosX>0.6874835</PosX>
+      <PosY>0.4225672</PosY>
+      <Width>0.34275</Width>
+      <Height>0.0604166649</Height>
+      <FontSize>38.02196</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e3a00041">
-      <Content>• Electronic music production (Ableton 11)
-• Live mixes with controllers, DJ with CDJ
-• Modular sound synthesis
-• YouTube channel: Hors Reseau Quebec
+      <Content> Electronic music production (Ableton 11)
+ Live mixes with controllers, DJ with CDJ
+ Modular sound synthesis
+ YouTube channel: Hors Reseau Quebec
 </Content>
       <BulletPoints />
-      <PosX>0.7416667</PosX>
-      <PosY>0.38</PosY>
-      <Width>0.42</Width>
-      <Height>0.18</Height>
-      <FontSize>26</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <PosX>0.6874835</PosX>
+      <PosY>0.2992083</PosY>
+      <Width>0.354966968</Width>
+      <Height>0.09608333</Height>
+      <FontSize>21.9</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>

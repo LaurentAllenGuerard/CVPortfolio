@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="c71becae-960a-40d8-8d48-5689eb3b0e72">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="3c7008d9-e41d-4da4-a4e5-1592e669bd55">
   <Title>Portfolio</Title>
-  <BackgroundColor>#0F1E0F</BackgroundColor>
-  <GradientTop>#1A301A</GradientTop>
-  <GradientBottom>#0A180A</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="4c20e29b">
       <Content>Portfolio</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.62</PosY>
-      <Width>0.55</Width>
-      <Height>0.12</Height>
-      <FontSize>74</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.7218461</Width>
+      <Height>0.1866154</Height>
+      <FontSize>81.6974</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
@@ -23,13 +23,13 @@
 
 1998-2026</Content>
       <BulletPoints />
-      <PosX>0.473846167</PosX>
-      <PosY>0.36</PosY>
-      <Width>0.6</Width>
-      <Height>0.07</Height>
-      <FontSize>40</FontSize>
-      <TextColor>#CCCCCC</TextColor>
-      <BackgroundColor>#3A3A4A60</BackgroundColor>
+      <PosX>0.5</PosX>
+      <PosY>0.3916923</PosY>
+      <Width>0.729933858</Width>
+      <Height>0.2843077</Height>
+      <FontSize>48.35</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>

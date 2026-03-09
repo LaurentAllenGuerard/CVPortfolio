@@ -1,104 +1,100 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="60525474-c5f0-41bc-bd83-50710211f553">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="a66a3df2-14b3-48f1-8f53-cd82d0063ea9">
   <Title>Education and Contact</Title>
-  <BackgroundColor>#0F0F1E</BackgroundColor>
-  <GradientTop>#1A1A30</GradientTop>
-  <GradientBottom>#0A0A18</GradientBottom>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
   <Elements>
     <Element type="text" id="e1a00001">
       <Content>Laurent Allen-Guérard</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.843333364</PosY>
-      <Width>0.7</Width>
-      <Height>0.08</Height>
-      <FontSize>58</FontSize>
-      <TextColor>#66D9EF</TextColor>
-      <BackgroundColor>#1A3A5A90</BackgroundColor>
+      <PosY>0.777778</PosY>
+      <Width>0.7098333</Width>
+      <Height>0.110815369</Height>
+      <FontSize>60.34574</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e1a00002">
-      <Content>Software Developer
-27 Years Experience</Content>
+      <Content>Software Developer  ·  27 Years Experience</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.78</PosY>
-      <Width>0.65</Width>
-      <Height>0.05</Height>
-      <FontSize>38</FontSize>
-      <TextColor>#A6E22E</TextColor>
-      <BackgroundColor>#2A4A2A80</BackgroundColor>
+      <PosY>0.6208172</PosY>
+      <Width>0.496416658</Width>
+      <Height>0.0427349545</Height>
+      <FontSize>28.2</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
-      <FontStyle>bold</FontStyle>
+      <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e1a00003">
-      <Content>Contact</Content>
+      <Content>Montreal, Quebec, Canada</Content>
       <BulletPoints />
-      <PosX>0.28</PosX>
-      <PosY>0.68</PosY>
-      <Width>0.4</Width>
-      <Height>0.06</Height>
-      <FontSize>46</FontSize>
-      <TextColor>#2E8B57</TextColor>
-      <BackgroundColor>#4A223290</BackgroundColor>
+      <PosX>0.5</PosX>
+      <PosY>0.5780822</PosY>
+      <Width>0.314666659</Width>
+      <Height>0.0427349545</Height>
+      <FontSize>28.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
-      <FontStyle>bold</FontStyle>
+      <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e1a00004">
-      <Content>• Montreal, Quebec, Canada
-
-• laurentalleng@visioneeg.com
-
-• Languages:
-    French, English
-    Spanish, Nahuatl
-</Content>
+      <Content>laurentalleng@visioneeg.com</Content>
       <BulletPoints />
-      <PosX>0.28</PosX>
-      <PosY>0.48</PosY>
-      <Width>0.42</Width>
-      <Height>0.28</Height>
-      <FontSize>32</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
-      <Alignment>left</Alignment>
+      <PosX>0.5</PosX>
+      <PosY>0.5353473</PosY>
+      <Width>0.341</Width>
+      <Height>0.0427349545</Height>
+      <FontSize>28.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e1a00007">
+      <Content>French, English, Spanish, Nahuatl</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.4926123</PosY>
+      <Width>0.39075</Width>
+      <Height>0.0427349545</Height>
+      <FontSize>28.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
     <Element type="text" id="e1a00005">
       <Content>Education</Content>
       <BulletPoints />
-      <PosX>0.72</PosX>
-      <PosY>0.68</PosY>
-      <Width>0.4</Width>
-      <Height>0.06</Height>
-      <FontSize>46</FontSize>
-      <TextColor>#2E8B57</TextColor>
-      <BackgroundColor>#4A223290</BackgroundColor>
+      <PosX>0.5</PosX>
+      <PosY>0.447545737</PosY>
+      <Width>0.298666656</Width>
+      <Height>0.0988814</Height>
+      <FontSize>51</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="e1a00006">
-      <Content>• 2014
-    Bachelor in Software Engineering
-    École de technologie supérieure
-
-• 2005
-    Minor in Computer Science
-    University of Montreal
-
-• 2002
-    Computer Science Techniques
-    Ahuntsic College
-</Content>
+      <Content> 2014  Bachelor in Software Engineering  - École de technologie supérieure
+ 2005  Minor in Computer Science - University of Montreal
+ 2002  Computer Science Techniques - Ahuntsic College</Content>
       <BulletPoints />
-      <PosX>0.72</PosX>
-      <PosY>0.48</PosY>
-      <Width>0.42</Width>
-      <Height>0.28</Height>
-      <FontSize>30</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#2A3A4A70</BackgroundColor>
+      <PosX>0.5</PosX>
+      <PosY>0.3096817</PosY>
+      <Width>0.7299339</Width>
+      <Height>0.125363439</Height>
+      <FontSize>28.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
       <Alignment>left</Alignment>
       <FontStyle>normal</FontStyle>
     </Element>
