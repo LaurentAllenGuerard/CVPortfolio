@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="9f043ba1-11fe-4b30-9b8a-2a2a409fef1e">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="7b42acba-c3d0-49b7-a0ce-05855dfff822">
   <Title>Professional Games</Title>
   <BackgroundColor>#0B1120</BackgroundColor>
   <GradientTop>#111827</GradientTop>
@@ -18,24 +18,11 @@
       <Alignment>center</Alignment>
       <FontStyle>bold</FontStyle>
     </Element>
-    <Element type="text" id="f0f520e1">
-      <Content>Professional Games</Content>
-      <BulletPoints />
-      <PosX>0.5</PosX>
-      <PosY>0.6387309</PosY>
-      <Width>0.239111111</Width>
-      <Height>0.0242907368</Height>
-      <FontSize>20</FontSize>
-      <TextColor>#FFFFFF</TextColor>
-      <BackgroundColor>#00000000</BackgroundColor>
-      <Alignment>center</Alignment>
-      <FontStyle>normal</FontStyle>
-    </Element>
     <Element type="text" id="f0f520e2">
       <Content>Console, PC, Mobile, Wii</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.614440143</PosY>
+      <PosY>0.6534871</PosY>
       <Width>0.287222236</Width>
       <Height>0.0242907368</Height>
       <FontSize>20</FontSize>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="d3af4a27-2967-45af-a8e9-6b1e449715c5">
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="f09ada8d-7e3b-4c76-bd18-66a8eeb12755">
   <Title>2023-now Land Surveyor LIDAR</Title>
   <BackgroundColor>#0B1120</BackgroundColor>
   <GradientTop>#111827</GradientTop>
@@ -19,12 +19,13 @@
       <FontStyle>bold</FontStyle>
     </Element>
     <Element type="text" id="5b59d304">
-      <Content>Land Surveyor</Content>
+      <Content>           Trifide360
+Land Surveyor Platform</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
       <PosY>0.514166653</PosY>
-      <Width>0.2551111</Width>
-      <Height>0.044</Height>
+      <Width>0.3938889</Width>
+      <Height>0.087</Height>
       <FontSize>30</FontSize>
       <TextColor>#FFFFFF</TextColor>
       <BackgroundColor>#00000000</BackgroundColor>
@@ -35,7 +36,7 @@
       <Content>LIDAR, Photogrammetry, Unity</Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.440166682</PosY>
+      <PosY>0.418666661</PosY>
       <Width>0.5004445</Width>
       <Height>0.044</Height>
       <FontSize>30</FontSize>
@@ -50,7 +51,7 @@
 </Content>
       <BulletPoints />
       <PosX>0.5</PosX>
-      <PosY>0.34466666</PosY>
+      <PosY>0.323166668</PosY>
       <Width>0.60355556</Width>
       <Height>0.087</Height>
       <FontSize>30</FontSize>
