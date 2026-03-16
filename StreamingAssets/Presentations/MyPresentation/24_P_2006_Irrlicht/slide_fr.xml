@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="f8488034-6ea9-42b9-b022-36aa233e87cd">
+  <Title>2006 Irrlicht</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="cf547bf9">
+      <Content>2006</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.132666662</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="9db3727f">
+      <Content>Projet personnel</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.5571667</PosY>
+      <Width>0.284777761</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="0f6d4d9a">
+      <Content>Irrlicht, Newton Game Dynamics</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.483166665</PosY>
+      <Width>0.525555551</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="ce799c3a">
+      <Content> API graphique &amp; entrées Irrlicht
+ Simulation de vol spatial
+ Recherche de simulation orbitale
+ Concept de jeu MMO spatial
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.34466666</PosY>
+      <Width>0.465555578</Width>
+      <Height>0.173</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
+</Slide>

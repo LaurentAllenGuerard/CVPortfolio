@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="7b42acba-c3d0-49b7-a0ce-05855dfff822">
+  <Title>Jeux professionnels</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="ed03a8a2">
+      <Content>Jeux</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.420555532</Width>
+      <Height>0.10212373</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="f0f520e2">
+      <Content>Console, PC, Mobile, Wii</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.6534871</PosY>
+      <Width>0.287222236</Width>
+      <Height>0.0242907368</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="f0f520ef">
+      <Content> Scaler - Console - A2M
+ Scooby-Doo! Unmasked - Console - A2M
+ VijaySing Pro Golf - Mobile - Gameloft
+ Asphalt Urban GT - Mobile - Gameloft
+ Prince of Persia - Mobile - Gameloft
+ Beach Volley Mania - Fugitive
+ Orbital - PC - Fugitive
+ Rally Mania - Mobile 3D - Fugitive
+ OddBoy - PC &amp; Mobile - ODD1
+ Warband - Mobile - ODD1
+ Freddi Fish / SpyFox - Wii - Mistic
+ Kid Paddle - Wii - Mistic
+ Sherlock Holmes - Wii - Mistic
+ Bachelor Bachelorette - Wii - Ludia
+ Amazing Race - Wii - Ludia
+ Planet Fish - WiiWare - Ludia
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.4246474</PosY>
+      <Width>0.459888875</Width>
+      <Height>0.3552948</Height>
+      <FontSize>20</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages />
+</Slide>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="bdc49207-8b67-4ac8-9ed5-136b6ac00b6c">
+  <Title>Portfolio</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="4c20e29b">
+      <Content>Portfolio</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.6276923</PosY>
+      <Width>0.7218461</Width>
+      <Height>0.1866154</Height>
+      <FontSize>81.6974</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="318c20a6">
+      <Content>Projets de programmation</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.3916923</PosY>
+      <Width>0.85</Width>
+      <Height>0.09246154</Height>
+      <FontSize>42</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>65</Width>
+  <Height>65</Height>
+  <Scale>1.2</Scale>
+  <AttachedImages />
+</Slide>

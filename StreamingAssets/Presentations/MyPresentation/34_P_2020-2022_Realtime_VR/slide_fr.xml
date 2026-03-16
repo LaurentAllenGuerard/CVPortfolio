@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="e0a006e5-600e-4f28-b779-7b565c228aa7">
+  <Title>2020-2022 Rendu temps réel &amp; VR</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="c31d0303">
+      <Content>2020 2022</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.613333344</Width>
+      <Height>0.132666662</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="5b59d303">
+      <Content>Rendu temps réel &amp; VR</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.514166653</PosY>
+      <Width>0.4382222</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="4bfdec33">
+      <Content>Personnages, Éditeur de scènes</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.440166682</PosY>
+      <Width>0.50</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="760b5343">
+      <Content> Rendu de personnages en temps réel
+ Interface d'éditeur de scènes VR complexe
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.34466666</PosY>
+      <Width>0.65</Width>
+      <Height>0.087</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>Screenshot 2026-02-25 121511.png</File>
+  </AttachedImages>
+</Slide>

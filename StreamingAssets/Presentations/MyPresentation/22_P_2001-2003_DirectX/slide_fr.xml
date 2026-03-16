@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="c542cf10-b70b-4a17-b802-16a3a1173b5a">
+  <Title>2001-2003 DirectX</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="f415bc9f">
+      <Content>2001</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.153731287</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="de592b9d">
+      <Content>Projets personnels</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.5737756</PosY>
+      <Width>0.30177778</Width>
+      <Height>0.0509862565</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="ee58059b">
+      <Content>C++ Win32, DirectX</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.522789359</PosY>
+      <Width>0.337555557</Width>
+      <Height>0.0509862565</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="c8318ae5">
+      <Content> Pipeline GPU fixe DirectX8
+ Éditeur de coordonnées de textures
+ Tuiles 3D, multitexturage
+ Tri de géométrie transparente
+ Portage DX8 vers DX9
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.372148126</PosY>
+      <Width>0.491999984</Width>
+      <Height>0.250296175</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
+</Slide>

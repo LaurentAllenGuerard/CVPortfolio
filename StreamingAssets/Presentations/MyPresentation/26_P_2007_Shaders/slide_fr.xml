@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="d56e355a-8e4c-4eac-8c71-e2069070e10a">
+  <Title>2007 ODD1 Shaders</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="ccfbd54e">
+      <Content>2007</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.132666662</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="c6a0195a">
+      <Content>ODD1 - Shaders CG</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.535666645</PosY>
+      <Width>0.3478889</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="7e3b904f">
+      <Content>Langage de shaders CG</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.461666673</PosY>
+      <Width>0.3662222</Width>
+      <Height>0.044</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="c65667a7">
+      <Content> Shaders de vertex et pixel en CG
+ 3 textures 2D projetées pour la 3D
+ Méga Particules (ShaderX5)
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.34466666</PosY>
+      <Width>0.5192222</Width>
+      <Height>0.13</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
+</Slide>

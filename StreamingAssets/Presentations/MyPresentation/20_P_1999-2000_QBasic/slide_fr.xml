@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="9333eabf-134a-49ee-a593-fd7188e8ce0d">
+  <Title>1999-2000 Projets personnels</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="8b6f1810">
+      <Content>1999</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.139949977</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e743b232">
+      <Content>Projets personnels</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.58984226</PosY>
+      <Width>0.30177778</Width>
+      <Height>0.04641557</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="722fca0e">
+      <Content>QBasic</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.5434267</PosY>
+      <Width>0.142444447</Width>
+      <Height>0.04641557</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="ea7f6d2c">
+      <Content> Gestion de fichiers
+ Éditeur de textures
+ Éditeur de terrain
+ Défilement latéral style Mario Bros
+ Système d'animation pour RPG
+ Génération aléatoire de terrain
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.3836094</PosY>
+      <Width>0.56</Width>
+      <Height>0.27321893</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
+</Slide>

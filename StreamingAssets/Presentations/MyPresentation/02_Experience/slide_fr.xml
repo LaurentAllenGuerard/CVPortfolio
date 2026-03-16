@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="bc8e9a95-cb95-4b23-b155-a46a55bf2bd8">
+  <Title>Expérience professionnelle</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="e2a00001">
+      <Content>Expérience professionnelle</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.78</Width>
+      <Height>0.075666666</Height>
+      <FontSize>48</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00010">
+      <Content>2023 - Maintenant  ·  Groupe Trifide inc.</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.6467584</PosY>
+      <Width>0.35</Width>
+      <Height>0.0311500058</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00012">
+      <Content> Application 3D d'arpentage avec Unity
+ Scans laser 3D, photos 360, reconstruction de maillages
+ Traitement de milliards de points
+</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.5879391</PosY>
+      <Width>0.42</Width>
+      <Height>0.08648846</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00020">
+      <Content>2020 - 2022  ·  Chisei Technologies</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.529119849</PosY>
+      <Width>0.307583332</Width>
+      <Height>0.0311500058</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00022">
+      <Content> Développement 3D VR / Bureau sur Mirage avec Unity
+ Shaders réalistes, animations complexes
+ Interface moderne pour VR et bureau
+</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.470300645</PosY>
+      <Width>0.42</Width>
+      <Height>0.08648846</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00030">
+      <Content>2017 - 2019  ·  Smartpixel</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.4114814</PosY>
+      <Width>0.233583346</Width>
+      <Height>0.0311500058</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00032">
+      <Content> Développeur logiciel généraliste et 3D, R&amp;D
+ C#, Javascript, Shaders, .Net, WebGL, Unity
+</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.3664673</PosY>
+      <Width>0.40</Width>
+      <Height>0.0588782281</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00040">
+      <Content>2013 - 2015  ·  Matrox Imaging</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.321453184</PosY>
+      <Width>0.27183336</Width>
+      <Height>0.0311500058</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00042">
+      <Content> Stagiaire développeur logiciel, AQ &amp; optimisations
+ Bibliothèque MIL, C++, Intel AVX2
+</Content>
+      <BulletPoints />
+      <PosX>0.3125165</PosX>
+      <PosY>0.276439041</PosY>
+      <Width>0.40</Width>
+      <Height>0.0588782281</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00050">
+      <Content>2011  ·  LIO - Labo d'imagerie médicale</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.6428715</PosY>
+      <Width>0.35</Width>
+      <Height>0.0389236845</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00052">
+      <Content> Stagiaire en R&amp;D GPU, bourse CRSNG
+ Recherche en imagerie médicale
+</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.586623847</PosY>
+      <Width>0.36</Width>
+      <Height>0.07357166</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00060">
+      <Content>2008 - 2010  ·  Mistic &amp; Ludia</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.530376136</PosY>
+      <Width>0.261583328</Width>
+      <Height>0.0389236845</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00062">
+      <Content> Programmeur de jeux et moteur PC et Wii
+ Revolution SDK (Nintendo Wii), multiplateforme
+</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.474128485</PosY>
+      <Width>0.39</Width>
+      <Height>0.07357166</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00070">
+      <Content>2006 - 2007  ·  ODD1</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.417880833</PosY>
+      <Width>0.196333334</Width>
+      <Height>0.0389236845</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00072">
+      <Content> Programmeur de jeux PC et mobile
+ C++ Win32, Ogre3D, Shaders CG, Java J2ME
+</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.361633152</PosY>
+      <Width>0.39</Width>
+      <Height>0.07357166</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00080">
+      <Content>2005  ·  Gameloft</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.30538547</PosY>
+      <Width>0.164416656</Width>
+      <Height>0.0389236845</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="e2a00082">
+      <Content> Programmeur de jeux mobiles, Java J2ME
+</Content>
+      <BulletPoints />
+      <PosX>0.6874835</PosX>
+      <PosY>0.2664618</PosY>
+      <Width>0.36</Width>
+      <Height>0.0389236845</Height>
+      <FontSize>18.2</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B15</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>120</Width>
+  <Height>120</Height>
+  <Scale>1</Scale>
+  <AttachedImages />
+</Slide>

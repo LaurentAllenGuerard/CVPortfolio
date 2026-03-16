@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5056c19f-4a9f-4c9c-ba83-48323fef07c5">
+  <Title>2006-2007 ODD1 Mobile</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="eaf18412">
+      <Content>2006</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.777778</PosY>
+      <Width>0.316333324</Width>
+      <Height>0.153731287</Height>
+      <FontSize>80</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="849fa18b">
+      <Content>ODD1 Jeux mobiles</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.5737756</PosY>
+      <Width>0.358555555</Width>
+      <Height>0.0509862565</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="70bab00d">
+      <Content>Java J2ME, JSR-184</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.522789359</PosY>
+      <Width>0.3542222</Width>
+      <Height>0.0509862565</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#94A3B8</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+    <Element type="text" id="b378fb6d">
+      <Content> Jeux mobiles en Java J2ME
+ Optimisation de terrain par masque de bits
+ Système d'IA
+ Voiture de rallye avec JSR-184 3D
+ Optimisation de vitesse 5x
+</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.372148126</PosY>
+      <Width>0.57</Width>
+      <Height>0.250296175</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#1E293B18</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>90</Width>
+  <Height>90</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>screenshot.jpg</File>
+  </AttachedImages>
+</Slide>
