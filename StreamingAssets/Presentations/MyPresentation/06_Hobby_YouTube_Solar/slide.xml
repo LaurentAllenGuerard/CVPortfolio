@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="hobby-youtube-solar">
+  <Title>YouTube &amp; Solar Energy</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="h3a00001">
+      <Content>YouTube &amp; Solar Energy</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.82</PosY>
+      <Width>0.90</Width>
+      <Height>0.13</Height>
+      <FontSize>52</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="h3a00002">
+      <Content>Hors R&#xE9;seau Qu&#xE9;bec</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.65</PosY>
+      <Width>0.70</Width>
+      <Height>0.06</Height>
+      <FontSize>36</FontSize>
+      <TextColor>#60A5FA</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+      <HasShadow>true</HasShadow>
+    </Element>
+    <Element type="text" id="h3a00003">
+      <Content> Youtube channel Hors R&#xE9;seau Qu&#xE9;bec
+ DIY culture promotion
+ Solar energy construction
+ Off grid activities
+ Parabolic mirror solar cooker</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.40</PosY>
+      <Width>0.85</Width>
+      <Height>0.42</Height>
+      <FontSize>25</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B28</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>100</Width>
+  <Height>100</Height>
+  <Scale>1</Scale>
+  <AttachedImages>
+    <File>Thumbnail.jpg</File>
+    <File>555940082_10172172797530521_3078652498411344339_n.jpg</File>
+    <File>505419165_10171226143010521_3743139718753442399_n.jpg</File>
+  </AttachedImages>
+  <AttachedImagesCW>true</AttachedImagesCW>
+</Slide>

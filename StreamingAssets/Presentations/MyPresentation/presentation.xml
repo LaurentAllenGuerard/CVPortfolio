@@ -9,7 +9,7 @@
       <Name>CV</Name>
       <CenterX>0</CenterX>
       <CenterY>0</CenterY>
-      <Radius>120</Radius>
+      <Radius>102</Radius>
       <Folders>
         <Folder>01_Education_Contact</Folder>
         <Folder>02_Experience</Folder>
@@ -17,10 +17,23 @@
       </Folders>
     </Group>
     <Group>
+      <Name>Hobbies</Name>
+      <CenterX>0</CenterX>
+      <CenterY>0</CenterY>
+      <Radius>279</Radius>
+      <StartAngle>40</StartAngle>
+      <AttachedImagesInward>true</AttachedImagesInward>
+      <Folders>
+        <Folder>04_Hobby_3D_Printing</Folder>
+        <Folder>05_Hobby_Electronic_Music</Folder>
+        <Folder>06_Hobby_YouTube_Solar</Folder>
+      </Folders>
+    </Group>
+    <Group>
       <Name>Portfolio</Name>
       <CenterX>0</CenterX>
       <CenterY>0</CenterY>
-      <Radius>400</Radius>
+      <Radius>460</Radius>
       <Folders>
         <Folder>17_Portfolio_Title</Folder>
         <Folder>19_P_1998-1999_QBasic</Folder>

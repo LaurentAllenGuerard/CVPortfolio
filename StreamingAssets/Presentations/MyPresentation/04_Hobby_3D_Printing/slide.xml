@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Slide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="hobby-3d-printing">
+  <Title>3D Printing</Title>
+  <BackgroundColor>#0B1120</BackgroundColor>
+  <GradientTop>#111827</GradientTop>
+  <GradientBottom>#030712</GradientBottom>
+  <Elements>
+    <Element type="text" id="h1a00001">
+      <Content>3D Printing</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.82</PosY>
+      <Width>0.80</Width>
+      <Height>0.13</Height>
+      <FontSize>60</FontSize>
+      <TextColor>#FFFFFF</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>bold</FontStyle>
+    </Element>
+    <Element type="text" id="h1a00002">
+      <Content>Maker &amp; Prototyping</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.66</PosY>
+      <Width>0.70</Width>
+      <Height>0.06</Height>
+      <FontSize>36</FontSize>
+      <TextColor>#60A5FA</TextColor>
+      <BackgroundColor>#00000000</BackgroundColor>
+      <Alignment>center</Alignment>
+      <FontStyle>normal</FontStyle>
+      <HasShadow>true</HasShadow>
+    </Element>
+    <Element type="text" id="h1a00003">
+      <Content> Creality 3D scanner
+ Bambu lab X1C
+ Blender basic modeling
+ Single and multi materials
+ Lithophane
+ Experience with:
+     PLA, PETG, TPU85 90 95A
+     ABS, ASA, PAHT-CF, CMYK
+     PLA Silk, Fluorescent, HD-Glass</Content>
+      <BulletPoints />
+      <PosX>0.5</PosX>
+      <PosY>0.40</PosY>
+      <Width>0.82</Width>
+      <Height>0.42</Height>
+      <FontSize>30</FontSize>
+      <TextColor>#CBD5E1</TextColor>
+      <BackgroundColor>#1E293B28</BackgroundColor>
+      <Alignment>left</Alignment>
+      <FontStyle>normal</FontStyle>
+    </Element>
+  </Elements>
+  <Width>100</Width>
+  <Height>100</Height>
+  <Scale>1</Scale>
+  <AttachedImagesCW>true</AttachedImagesCW>
+  <AttachedImages>
+    <File>Hobby3DPrint.jpg</File>
+    <File>Screenshot 2026-03-16 200348.png</File>
+  </AttachedImages>
+</Slide>
