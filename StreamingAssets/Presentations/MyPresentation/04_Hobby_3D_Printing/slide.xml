@@ -58,8 +58,5 @@
   <Height>100</Height>
   <Scale>1</Scale>
   <AttachedImagesCW>true</AttachedImagesCW>
-  <AttachedImages>
-    <File>Hobby3DPrint.jpg</File>
-    <File>Screenshot 2026-03-16 200348.png</File>
-  </AttachedImages>
+  <AttachedImages />
 </Slide>

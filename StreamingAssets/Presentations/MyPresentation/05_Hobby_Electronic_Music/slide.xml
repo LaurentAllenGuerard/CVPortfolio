@@ -55,9 +55,6 @@
   <Width>100</Width>
   <Height>100</Height>
   <Scale>1</Scale>
-  <AttachedImages>
-    <File>Screenshot 2026-03-16 181009.png</File>
-    <File>Screenshot 2026-03-16 195526.png</File>
-  </AttachedImages>
+  <AttachedImages />
   <AttachedImagesCW>true</AttachedImagesCW>
 </Slide>
